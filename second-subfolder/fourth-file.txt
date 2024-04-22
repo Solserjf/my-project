@@ -1,2 +1,4 @@
 Fourth file text
 This file was modified in the feature branch
+
+This file was modified in the also-new-feature branch
